@@ -1,5 +1,5 @@
-## 🎓 Education 
-- Inje Univ. College of Medicine (2016 ~), majored in medicine
+## 🎓 Education
+- Inje Univ. College of Medicine (2016.3 ~ 2022.2), majored in medicine
 
 ## 🏆 Awards
 #### Algorithm
