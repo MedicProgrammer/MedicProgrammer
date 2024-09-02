@@ -29,6 +29,6 @@
 
 ## ✍ Additional Course Taken
 #### Data Science
-- 감염병 데이터 활용 데이터 분석 교육 1기, 22기 수료
+- 감염병 데이터 활용 데이터 분석 교육 1기, 2기 수료
 - KOOC 인공지능 및 기계학습 개론 1, 2 (KAIST 문일철 Pf.)
 - 2021 AMIST Summer School (Medical AI)
